@@ -1,0 +1,78 @@
+IGNITION - ALL RIGHTS RESERVED
+Copyright (c) 2026 Verse Mate Studios
+
+All rights reserved.
+
+The IGNITION project, including but not limited to its source code, object code,
+design documents, text, graphics, artwork, logos, names, characters, operators,
+weapons, maps, audio, animations, user interface elements, and other associated
+materials (collectively, the "Materials"), is the intellectual property of
+Verse Mate Studios, unless a specific component states otherwise.
+
+No permission is granted, by implication or otherwise, to any person to use,
+copy, reproduce, modify, adapt, publish, distribute, sublicense, publicly
+display, publicly perform, or create derivative works from the Materials
+without prior written permission from Verse Mate Studios.
+
+You may view this repository on GitHub. Public visibility of this repository
+does not mean that its contents are open source and does not grant additional
+rights to use or redistribute the Materials.
+
+Third-party components, if any, remain subject to their respective licenses.
+This notice does not replace or override those third-party licenses.
+
+THE MATERIALS ARE PROVIDED "AS IS", WITHOUT WARRANTIES OR CONDITIONS OF ANY
+KIND, EXPRESS OR IMPLIED, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+For permission requests, contact the repository owner or Verse Mate Studios
+through the contact method published in the official project repository.
+
+IMPORTANT:
+This is a custom all-rights-reserved notice. It is not an OSI-approved
+open-source license and does not grant open-source permissions. If the project
+is intended to accept external code contributions or distribute code for
+reuse, choose an appropriate standard license and review the contribution
+terms before doing so.
+
+========================================================================
+TÜRKÇE METİN
+========================================================================
+
+IGNITION - TÜM HAKLARI SAKLIDIR
+Telif Hakkı (c) 2026 Verse Mate Studios
+
+Tüm hakları saklıdır.
+
+IGNITION projesi; kaynak kodu, nesne kodu, tasarım belgeleri, metinler,
+grafikler, çizimler, logolar, isimler, karakterler, operatörler, silahlar,
+haritalar, sesler, animasyonlar, kullanıcı arayüzü öğeleri ve bunlarla
+bağlantılı diğer materyaller dâhil ancak bunlarla sınırlı olmamak üzere
+(topluca "Materyaller"), belirli bir bileşen aksini belirtmediği sürece
+Verse Mate Studios'un fikrî mülkiyetidir.
+
+Verse Mate Studios'un önceden verilmiş yazılı izni olmaksızın herhangi bir
+kişiye; Materyalleri kullanma, kopyalama, çoğaltma, değiştirme, uyarlama,
+yayımlama, dağıtma, alt lisanslama, kamuya açık biçimde sergileme veya
+Materyallerden türetilmiş çalışmalar oluşturma konusunda açık ya da zımni
+herhangi bir izin verilmemektedir.
+
+Bu depoyu GitHub üzerinden görüntüleyebilirsiniz. Deponun herkese açık
+olması, içeriğinin açık kaynak olduğu anlamına gelmez ve Materyalleri
+kullanmak veya yeniden dağıtmak için ek haklar vermez.
+
+Varsa üçüncü taraf bileşenler, kendi lisanslarının hükümlerine tabi olmaya
+devam eder. Bu bildirim, söz konusu üçüncü taraf lisanslarının yerine geçmez
+veya onları geçersiz kılmaz.
+
+YASALARIN İZİN VERDİĞİ AZAMİ ÖLÇÜDE, MATERYALLER AÇIK VEYA ZIMNİ HERHANGİ BİR
+GARANTİ YA DA KOŞUL OLMAKSIZIN "OLDUĞU GİBİ" SUNULUR.
+
+İzin talepleri için resmî proje deposunda yayımlanan iletişim yöntemi
+aracılığıyla depo sahibiyle veya Verse Mate Studios ile iletişime geçin.
+
+ÖNEMLİ:
+Bu metin, tüm hakları saklı tutan özel bir bildirimdir. OSI tarafından
+onaylanmış bir açık kaynak lisansı değildir ve açık kaynak kullanım izinleri
+vermez. Projenin dışarıdan kod katkısı kabul etmesi veya kodun yeniden
+kullanılmak üzere dağıtılması isteniyorsa uygun bir standart lisans seçilmeli
+ve katkı koşulları önceden gözden geçirilmelidir.
